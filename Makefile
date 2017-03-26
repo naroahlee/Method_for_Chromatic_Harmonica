@@ -4,7 +4,10 @@ vpath %.abc ${SRC_PATH}
 
 .PHONY: all clean
 
-ALL  = MfCH_05_10.mid
+ALL =
+ALL += MfCH_05_07.mid
+ALL += MfCH_05_07.eps
+ALL += MfCH_05_10.mid
 ALL += MfCH_05_10.eps
 
 all: ${ALL}
