@@ -9,6 +9,8 @@ ALL += MfCH_05_07.mid
 ALL += MfCH_05_07.eps
 ALL += MfCH_05_08.mid
 ALL += MfCH_05_08.eps
+ALL += MfCH_05_09.mid
+ALL += MfCH_05_09.eps
 ALL += MfCH_05_10.mid
 ALL += MfCH_05_10.eps
 
