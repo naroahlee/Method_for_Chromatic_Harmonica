@@ -1,0 +1,11 @@
+MfCH  =
+MfCH += MfCH_04_17.mid
+MfCH += MfCH_04_17.eps
+MfCH += MfCH_05_07.mid
+MfCH += MfCH_05_07.eps
+MfCH += MfCH_05_08.mid
+MfCH += MfCH_05_08.eps
+MfCH += MfCH_05_09.mid
+MfCH += MfCH_05_09.eps
+MfCH += MfCH_05_10.mid
+MfCH += MfCH_05_10.eps
